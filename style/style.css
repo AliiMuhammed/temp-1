@@ -153,7 +153,7 @@ a{
 .land{
     width: 100%;
     height: calc(100vh - 64px);
-    background-image: url(/img/grey_mountains_by_a_cheek_d15p96s.jpg);
+    background-image: url(img/grey_mountains_by_a_cheek_d15p96s.jpg);
     background-size: cover;
     position: relative;
 }
